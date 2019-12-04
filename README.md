@@ -59,7 +59,7 @@ The first version of my portfolio website in production
 ## 10.1. Front-end
 ### Overall
 * <b>Collections</b>
-    - [프론트엔드 학습 사이트](https://poiemaweb.com/)
+    - [프론트엔드 학습 사이트](https://poiemaweb.com/) : HTML5, CSS3, Bootstrap, Sass, JS, ECMAScript6, jQuery, Snippet, NodeJS, Express, MongoDB, TypeScript, Angular, Tools
 * <b>Testing</b>
     - [HTML-CSS-JS](https://html-css-js.com/): An online tool collection of HTML, CSS, JS
     - GreenSock
@@ -131,7 +131,7 @@ The first version of my portfolio website in production
     - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
 ## 10.6. Etc
-* <b>How to write a good README
+* <b>How to write a good README</b>
   - [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques)
 * <b>Testing</b>
     - [Mocha](https://mochajs.org/), the core framework : It provides common testing functions including describe and it and the main function that runs tests.
@@ -182,9 +182,20 @@ The first version of my portfolio website in production
 I plan to learn the following:
 * <b>Overall</b>
     - * [Web Developer Roadmap](https://github.com/cmdlhz/developer-roadmap)
-* <b>DB</b>
-    - [MongoDB](https://www.mongodb.com/) : a cross-platform document-oriented database program (<i>No SQL!</i>)
-    
+* <b>DB</b> : a cross-platform document-oriented database program (<i>No SQL!</i>)
+    - [MongoDB University](https://university.mongodb.com/courses/catalog)
+      + M001: MongoDB Basics (<i>introductory</i>)
+      + M042: New Features & Tools in MongoDB 4.2 (<i>introductory</i>)
+      + M103: Basic Cluster Administration (<i>introductory</i>)
+      + M121: The MongoDB Aggregation Framework (<i>introductory</i>)
+      + M201: MongoDB Performance (<i>intermediate</i>)
+      + M220J: MongoDB for Java Developers (<i>intermediate</i>)
+      + M220JS: MongoDB for JavaScript Developers (<i>intermediate</i>)
+      + M220P: MongoDB for Python Developers (<i>intermediate</i>)
+      + M310: MongoDB Security (<i>advanced</i>)
+      + M320: Data Modeling (<i>advanced</i>)      
+      + UD032: Data Wrangling with MongoDB (<i>intermediate</i>)
+      
 # 13. Contributing
 If you see any typos or formatting errors in the website, please do not hesitate to open a pull request and fix it! :)
 - - -
