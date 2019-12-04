@@ -63,7 +63,7 @@ The first version of my portfolio website in production
 - - -
 
 # 9. Shortcuts 
-## Visual Studio Code
+## 9.1. Visual Studio Code
 * <b>General</b>
     - Word Wrap : `Alt` + `Z`
     - Multi-select : Click while pressing `Alt`
@@ -80,7 +80,7 @@ The first version of my portfolio website in production
     - `width` with 100px : type `w` & 100 and then press `tab`  
     - `height` with 100px : type `h` & 100 and then press `tab`  
 
-## Eclipse
+## 9.2. Eclipse
 * <b>General</b>
     - Word Wrap : `Shift` + `Alt` + `Y`
     - Run : `Shift` + `Alt` + `x` 
