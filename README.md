@@ -168,7 +168,7 @@ The first version of my portfolio website in production
 
 ## 10.5. Computer Science
 * <b>Fundamentals</b>
-    - [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
+    - [Teach Yourself CS](https://teachyourselfcs.com/)
     - [List of CS courses online](https://github.com/prakhar1989/awesome-courses)
 
 ## 10.6. UI/UX
@@ -202,7 +202,6 @@ The first version of my portfolio website in production
     - [Ji-hoon Suh](https://jihoonsuh.com/)
     - [Jeremiah Shaw](http://www.jermshaw.com/)
     - [Derek Mei](https://www.derekmei.com/)
-    - [nykim](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 
 * <b>Programming Work</b>
     - [Tania Rascia](https://www.taniarascia.com/)
