@@ -2,29 +2,39 @@
 The first version of my portfolio website in production
 
 ## Table of Contents
-1. <b>[Setup](https://github.com/cmdlhz/cmdlhz_ver1#1-setup)</b>
-2. <b>[Run the Server](https://github.com/cmdlhz/cmdlhz_ver1#2-run-the-server)</b>
-3. <b>[Work](https://github.com/cmdlhz/cmdlhz_ver1#3-work)</b>
-4. <b>[Writings](https://github.com/cmdlhz/cmdlhz_ver1#4-writings)</b>
-5. <b>[About](https://github.com/cmdlhz/cmdlhz_ver1#5-about)</b>
-6. <b>[Account](https://github.com/cmdlhz/cmdlhz_ver1#6-account)</b>
-7. <b>[Main Page](https://github.com/cmdlhz/cmdlhz_ver1#7-main-page)</b>
+1. <b>[Abstract](https://github.com/cmdlhz/cmdlhz_ver1#1-abstract)</b>
+2. <b>[Setup](https://github.com/cmdlhz/cmdlhz_ver1#2-setup)</b>
+3. <b>[[Contents] Work](https://github.com/cmdlhz/cmdlhz_ver1#3-work)</b>
+4. <b>[[Contents] Writings](https://github.com/cmdlhz/cmdlhz_ver1#4-writings)</b>
+5. <b>[[Contents] About](https://github.com/cmdlhz/cmdlhz_ver1#5-about)</b>
+6. <b>[[Contents] Account](https://github.com/cmdlhz/cmdlhz_ver1#6-account)</b>
+7. <b>[[Contents] Main Page](https://github.com/cmdlhz/cmdlhz_ver1#7-main-page)</b>
 8. <b>[Navigation](https://github.com/cmdlhz/cmdlhz_ver1#8-navigation)</b>
-9. <b>[General](https://github.com/cmdlhz/cmdlhz_ver1#9-general)</b>
+9. <b>[Shortcuts](https://github.com/cmdlhz/cmdlhz_ver1#9-shortcuts)</b>
 10. <b>[References](https://github.com/cmdlhz/cmdlhz_ver1#10-references)</b>
 11. <b>[Built With](https://github.com/cmdlhz/cmdlhz_ver1#11-built-with)</b>
 12. <b>[Coming Up](https://github.com/cmdlhz/cmdlhz_ver1#12-coming-up)</b>
 13. <b>[Contributing](https://github.com/cmdlhz/cmdlhz_ver1#13-contributing)</b>
 14. <b>[License](https://github.com/cmdlhz/cmdlhz_ver1#14-license)</b>
 
-# 1. Setup
-## 1-1. Backend - Server
-## 1-2. Frontend - Client
+# 1. Abstract
 - - -
 
-# 2. Run the server
-* <b>Backend</b> : 
-* <b>Frontend</b> : `cd client` - `ng serve`
+# 2. Setup
+## 2.1. Backend - Server
+## 2.2. Frontend - Client
+## 2.3. Git
+* <Visual Studio Code>
+    - Register user info
+        + `git config --global user.name` "name"
+        + `git config --global user.email` "email address"
+    - Error Handling 
+        + Error message : "Updates were rejected because the tip of your current branch is behind its remote counterpart. Integrate the remote changes (e.g. 'git pull ...') before pushing again. See the 'Note about fast-forwards' in 'git push --help' for details."
+            - [Solution](https://stackoverflow.com/a/55015370/10021131) : `git pull --rebase` + `git push origin master`
+## 2.4. Text Editors
+* <Eclipse>
+    - made a shortcut for adding "Getter & Setter" : `Alt` + `G`
+    - made a shortcut for adding "String toString()" : `Alt` + `T`
 - - -
 
 # 3. Work 
@@ -52,20 +62,45 @@ The first version of my portfolio website in production
 ## 8.2. Footer
 - - -
 
-# 9. General 
-- [환경변수를 설정하는 이유](https://c-calliy.tistory.com/42)
+# 9. Shortcuts 
+## Visual Studio Code
+* <b>General</b>
+    - Word Wrap : `Alt` + `Z`
+    - Multi-select : Click while pressing `Alt`
+    - Select next corresponding word : `Ctrl` + `D`
+    - Select all corresponding words : `Ctrl` + `Shift` + `L`
+* <b>HTML</b>
+    - `<div>` with an ID named "search" : type `div#` & ID name and then press `tab`
+    - `<div>` with a class named "search" : type `div.` & ID name and then press `tab`
+* <b>CSS</b>
+    - `top` with 100px : type `t` & 100 and then press `tab`
+    - `right` with 100px : type `r` & 100 and then press `tab`
+    - `bottom` with 100px : type `b` & 100 and then press `tab`
+    - `left` with 100px : type `l` & 100 and then press `tab`   
+    - `width` with 100px : type `w` & 100 and then press `tab`  
+    - `height` with 100px : type `h` & 100 and then press `tab`  
+
+## Eclipse
+* <b>General</b>
+    - Word Wrap : `Shift` + `Alt` + `Y`
+    - Run : `Shift` + `Alt` + `x` 
+        + Java Application : `J`
+    - Debug : `Shift` + `Alt` + `D`
+        + Java Application : `J`
+    - Open Resources : `Ctrl` + `Shift` + `R`
 - - -
 
 # 10. References 
-## 10.1. Front-end
+## 10.1. Overall
+* <b>Info</b>
+    - [개발 관련 정보](https://github.com/WeareSoft/archive)
+
+## 10.2. Front-end
 ### Overall
 * <b>Collections</b>
     - [프론트엔드 학습 사이트](https://poiemaweb.com/) : HTML5, CSS3, Bootstrap, Sass, JS, ECMAScript6, jQuery, Snippet, NodeJS, Express, MongoDB, TypeScript, Angular, Tools
-    - [개발 관련 정보](https://github.com/WeareSoft/archive)
 * <b>Testing</b>
     - [HTML-CSS-JS](https://html-css-js.com/): An online tool collection of HTML, CSS, JS
-    - GreenSock
-        + [GreenSock Ease Visualizer](https://greensock.com/ease-visualizer): `Power 0-4`, `Back`, `Elastic`, `Bounce`, `Rough`, `SlowMo`, `Stepped`, `Circ`, `Expo`, `Sine`
     - [Regex 101](https://regex101.com/): a regular expression debugger 
     
 ### CSS
@@ -90,6 +125,8 @@ The first version of my portfolio website in production
 * <b>Testing</b>
     - [Cubic-bezier](http://cubic-bezier.com): A transition effect with variable speed from start to end
     - [Color Picker](https://www.w3schools.com/colors/colors_picker.asp): Comparing similar colors
+    - GreenSock
+        + [GreenSock Ease Visualizer](https://greensock.com/ease-visualizer): `Power 0-4`, `Back`, `Elastic`, `Bounce`, `Rough`, `SlowMo`, `Stepped`, `Circ`, `Expo`, `Sine`
 * <b>Collections</b>
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/): A curated collection of useful CSS snippets
 * <b>Sass</b>
@@ -124,30 +161,33 @@ The first version of my portfolio website in production
 * <b>Practice</b>
     - [The Bézier curve](https://bezier.method.ac/) : A game for mastering the pen tool
     
-## 10.2. Back-end
+## 10.3. Back-end
 
-## 10.3. DB
+## 10.4. DB
 * [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
 
-## 10.4. Computer Science
+## 10.5. Computer Science
 * <b>Fundamentals</b>
     - [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
     - [List of CS courses online](https://github.com/prakhar1989/awesome-courses)
 
-## 10.5. UI/UX
+## 10.6. UI/UX
 * <b>Figma</b>
     - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
-## 10.6. Etc
+## 10.7. Etc
 * <b>How to write a good README</b>
-  - [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques)
+    - [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques)
+* <b>Version contorl</b>
+    - [Why you shouldn't use `--allow-unrelated-histories` flag](https://stackoverflow.com/a/39783462/10021131)
 * <b>Testing</b>
     - [Mocha](https://mochajs.org/), the core framework : It provides common testing functions including describe and it and the main function that runs tests.
     - [Chai](https://www.chaijs.com/) : the library with many assertions. It allows to use a lot of different assertions
 * <b>Etc</b>
+    - [환경변수를 설정하는 이유](https://c-calliy.tistory.com/42)
     - [Post Image](https://postimages.org/) : Get permanent links for images
   
-## 10.7. Inspirations
+## 10.8. Inspirations
 * <b>Interactive Experience</b>
     - [Website Awwwards](https://www.awwwards.com/) : scores based on design, usability, creativity, content, and mobile
     - [Form Follows Function](http://fff.cmiscm.com/#!/main)
@@ -184,9 +224,12 @@ The first version of my portfolio website in production
 * <b>Back End</b>
 * <b>DB</b>
     - [MySQL](https://www.mysql.com/)
+* <b>UI/UX</b>
+    - [Figma](https://www.figma.com/)
 * <b>Code Editior</b>
     - Visual Studio
-      + [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+      + [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) : useful for easily distinguishing different brackets
+      + [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) : helpful for performing git actions
     - Eclipse
     - [VIM](https://www.vim.org/)
       + [Helping One Million Developers Exit Vim](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)
