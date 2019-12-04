@@ -24,17 +24,17 @@ The first version of my portfolio website in production
 ## 2.1. Backend - Server
 ## 2.2. Frontend - Client
 ## 2.3. Git
-* <Visual Studio Code>
+* <b>Visual Studio Code</b>
     - Register user info
-        + `git config --global user.name` "name"
-        + `git config --global user.email` "email address"
+        + `git config --global user.name` + name
+        + `git config --global user.email` + email address
     - Error Handling 
         + Error message : "Updates were rejected because the tip of your current branch is behind its remote counterpart. Integrate the remote changes (e.g. 'git pull ...') before pushing again. See the 'Note about fast-forwards' in 'git push --help' for details."
             - [Solution](https://stackoverflow.com/a/55015370/10021131) : `git pull --rebase` + `git push origin master`
 ## 2.4. Text Editors
-* <Eclipse>
-    - made a shortcut for adding "Getter & Setter" : `Alt` + `G`
-    - made a shortcut for adding "String toString()" : `Alt` + `T`
+* <b>Eclipse</b>
+    - Made a shortcut for adding `Getter` & `Setter` : `Alt` + `G`
+    - Made a shortcut for adding `String toString()` : `Alt` + `T`
 - - -
 
 # 3. Work 
