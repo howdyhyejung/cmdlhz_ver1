@@ -212,14 +212,14 @@ The first version of my portfolio website in production
 * <b>Front End</b>
     - HTML
     - CSS
-      + [Sass](https://sass-lang.com/)
-      + [Animate CSS](https://daneden.github.io/animate.css/)
+        + [Sass](https://sass-lang.com/)
+        + [Animate CSS](https://daneden.github.io/animate.css/)
     - JavaScript
-      + [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap) : Professional-grade javascript animation for the modern web
-      + [ScrollMagic](http://scrollmagic.io/) : Javascript library for magical scroll interactions
-      + [AnimeJS](https://animejs.com/):  a lightweight JavaScript animation library
-      + [HeadroomJS](https://wicky.nillia.ms/headroom.js/) : A JS widget that allows you to react to the user's scroll
-      + [SweetAlert2](https://sweetalert2.github.io/) : A beautiful, responsive, customizable replacement for JavaScript's popup boxes
+        + [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap) : Professional-grade javascript animation for the modern web
+        + [ScrollMagic](http://scrollmagic.io/) : Javascript library for magical scroll interactions
+        + [AnimeJS](https://animejs.com/):  a lightweight JavaScript animation library
+        + [HeadroomJS](https://wicky.nillia.ms/headroom.js/) : A JS widget that allows you to react to the user's scroll
+        + [SweetAlert2](https://sweetalert2.github.io/) : A beautiful, responsive, customizable replacement for JavaScript's popup boxes
 * <b>Back End</b>
 * <b>DB</b>
     - [MySQL](https://www.mysql.com/)
@@ -227,11 +227,19 @@ The first version of my portfolio website in production
     - [Figma](https://www.figma.com/)
 * <b>Code Editior</b>
     - Visual Studio
-      + [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) : useful for easily distinguishing different brackets
-      + [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) : helpful for performing git actions
+        + [Git Graph](https://github.com/mhutchie/vscode-git-graph) : Views a git graph of your repository, and easily performs git actions from the graph
+        + [Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) : colorizes matching brackets and parenthesises, thus highlights the scope that those brackets/parenthesises wrap.
+        + [Highlight Matching Tag](https://github.com/vincaslt/vscode-highlight-matching-tag) : Highlights matching closing or opening tag
+        + [Better Comments](https://github.com/aaron-bond/better-comments) : Improves code comments by annotating with the following:
+            - `*` for highlighting
+            - `?` for questions
+            - `!` for warnings
+            - `TODO` for todos
+        + [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme) : provides colorful folder & file icons
+        + [Git Lens](https://github.com/eamodio/vscode-gitlens) : Visualizes code authorships at a glance 
     - Eclipse
     - [VIM](https://www.vim.org/)
-      + [Helping One Million Developers Exit Vim](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)
+        + [Helping One Million Developers Exit Vim](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)
 - - -
 
 # 12. Coming Up
@@ -240,17 +248,17 @@ I plan to learn the following:
     - * [Web Developer Roadmap](https://github.com/cmdlhz/developer-roadmap)
 * <b>DB</b> : a cross-platform document-oriented database program (<i>No SQL!</i>)
     - [MongoDB University](https://university.mongodb.com/courses/catalog)
-      + M001: MongoDB Basics (<i>introductory</i>)
-      + M042: New Features & Tools in MongoDB 4.2 (<i>introductory</i>)
-      + M103: Basic Cluster Administration (<i>introductory</i>)
-      + M121: The MongoDB Aggregation Framework (<i>introductory</i>)
-      + M201: MongoDB Performance (<i>intermediate</i>)
-      + M220J: MongoDB for Java Developers (<i>intermediate</i>)
-      + M220JS: MongoDB for JavaScript Developers (<i>intermediate</i>)
-      + M220P: MongoDB for Python Developers (<i>intermediate</i>)
-      + M310: MongoDB Security (<i>advanced</i>)
-      + M320: Data Modeling (<i>advanced</i>)      
-      + UD032: Data Wrangling with MongoDB (<i>intermediate</i>)
+        + M001: MongoDB Basics (<i>introductory</i>)
+        + M042: New Features & Tools in MongoDB 4.2 (<i>introductory</i>)
+        + M103: Basic Cluster Administration (<i>introductory</i>)
+        + M121: The MongoDB Aggregation Framework (<i>introductory</i>)
+        + M201: MongoDB Performance (<i>intermediate</i>)
+        + M220J: MongoDB for Java Developers (<i>intermediate</i>)
+        + M220JS: MongoDB for JavaScript Developers (<i>intermediate</i>)
+        + M220P: MongoDB for Python Developers (<i>intermediate</i>)
+        + M310: MongoDB Security (<i>advanced</i>)
+        + M320: Data Modeling (<i>advanced</i>)      
+        + UD032: Data Wrangling with MongoDB (<i>intermediate</i>)
       
 # 13. Contributing
 If you see any typos or formatting errors in the website, please do not hesitate to open a pull request and fix it! :)
