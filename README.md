@@ -188,7 +188,8 @@ The first version of my portfolio website in production
     - Visual Studio
       + [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
     - Eclipse
-    
+    - [VIM](https://www.vim.org/)
+      + [Helping One Million Developers Exit Vim](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)
 - - -
 
 # 12. Coming Up
