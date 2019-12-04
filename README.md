@@ -23,6 +23,8 @@ The first version of my portfolio website in production
 - - -
 
 # 2. Run the server
+* <b>Backend</b> : 
+* <b>Frontend</b> : `cd client` - `ng serve`
 - - -
 
 # 3. Work 
