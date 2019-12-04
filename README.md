@@ -111,7 +111,11 @@ The first version of my portfolio website in production
         + [Modules](https://javascript.info/modules)
 * <b>Collections</b>
     - [ES 6: New Features: Overview & Comparison](http://es6-features.org/#Constants)
-    
+
+### Angular
+* <b>Tutorials</b>
+    - [Angular Tutorial for Beginners: Learn Angular from Scratch](https://youtu.be/k5E2AVpwsko)
+        
 ### Design
 * <b>Practice</b>
     - [The Bézier curve](https://bezier.method.ac/) : A game for mastering the pen tool
@@ -176,6 +180,11 @@ The first version of my portfolio website in production
 * <b>Back End</b>
 * <b>DB</b>
     - [MySQL](https://www.mysql.com/)
+* <b>Code Editior</b>
+    - Visual Studio
+      + [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+    - Eclipse
+    
 - - -
 
 # 12. Coming Up
