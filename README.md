@@ -52,14 +52,14 @@ The first version of my portfolio website in production
 
 # 9. General 
 - [환경변수를 설정하는 이유](https://c-calliy.tistory.com/42)
-
 - - -
-    - [개발 관련 정보](https://github.com/WeareSoft/archive)
+
 # 10. References 
 ## 10.1. Front-end
 ### Overall
 * <b>Collections</b>
     - [프론트엔드 학습 사이트](https://poiemaweb.com/) : HTML5, CSS3, Bootstrap, Sass, JS, ECMAScript6, jQuery, Snippet, NodeJS, Express, MongoDB, TypeScript, Angular, Tools
+    - [개발 관련 정보](https://github.com/WeareSoft/archive)
 * <b>Testing</b>
     - [HTML-CSS-JS](https://html-css-js.com/): An online tool collection of HTML, CSS, JS
     - GreenSock
