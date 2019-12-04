@@ -90,6 +90,8 @@ The first version of my portfolio website in production
     - [Color Picker](https://www.w3schools.com/colors/colors_picker.asp): Comparing similar colors
 * <b>Collections</b>
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/): A curated collection of useful CSS snippets
+* <b>Sass</b>
+    - [Sass vs SCSS](http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better)
     
 ### JS
 * <b>Style Guide</b>
