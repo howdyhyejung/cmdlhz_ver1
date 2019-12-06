@@ -40,7 +40,12 @@ The first version of my portfolio website in production
 # 3. Work 
 - - -
 
-# 4. Writings 
+# 4. Writings
+* <b>Java</b>
+* <b>JavaScript</b>
+* <b>HTML & CSS</b>
+* <b>TypeScript</b>
+* <b>Angular</b>
 - - -
 
 # 5. About 
