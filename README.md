@@ -109,9 +109,11 @@ The first version of my portfolio website in production
     - [Regex 101](https://regex101.com/): a regular expression debugger 
     
 ### CSS
-* <b>Style Guide</b>
+* <b>Guide</b>
     - [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript#airbnb-css-in-javascript-style-guide)
     - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css#airbnb-css--sass-styleguide)
+    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * <b>Games</b>
     - [CSS Diner](http://flukeout.github.io/) : A game for learning CSS selectors
     - [Flexbox Froggy](https://flexboxfroggy.com/): A game for learning CSS flexbox
