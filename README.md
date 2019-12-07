@@ -117,7 +117,6 @@ The first version of my portfolio website in production
 * <b>Games</b>
     - [CSS Diner](http://flukeout.github.io/) : A game for learning CSS selectors
     - [Flexbox Froggy](https://flexboxfroggy.com/): A game for learning CSS flexbox
-    - [Flexbox Defense](http://www.flexboxdefense.com/) : A game for learning CSS flexbox
     - [Grid Garden](http://cssgridgarden.com/): A game for learning CSS grid layout
 * <b>Tutorials</b>
     - CSS
@@ -169,6 +168,9 @@ The first version of my portfolio website in production
     - [The Bézier curve](https://bezier.method.ac/) : A game for mastering the pen tool
     
 ## 10.3. Back-end
+### Java
+ * <b>Tutorials</b>
+    - [Java Tutorials](https://howtodoinjava.com/)
 
 ## 10.4. DB
 * [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
