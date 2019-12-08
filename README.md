@@ -11,11 +11,12 @@ The first version of my portfolio website in production
 7. <b>[[Contents] Main Page](https://github.com/cmdlhz/cmdlhz_ver1#7-main-page)</b>
 8. <b>[Navigation](https://github.com/cmdlhz/cmdlhz_ver1#8-navigation)</b>
 9. <b>[Shortcuts](https://github.com/cmdlhz/cmdlhz_ver1#9-shortcuts)</b>
-10. <b>[References](https://github.com/cmdlhz/cmdlhz_ver1#10-references)</b>
-11. <b>[Built With](https://github.com/cmdlhz/cmdlhz_ver1#11-built-with)</b>
-12. <b>[Coming Up](https://github.com/cmdlhz/cmdlhz_ver1#12-coming-up)</b>
-13. <b>[Contributing](https://github.com/cmdlhz/cmdlhz_ver1#13-contributing)</b>
-14. <b>[License](https://github.com/cmdlhz/cmdlhz_ver1#14-license)</b>
+10. <b>[Tips](https://github.com/cmdlhz/cmdlhz_ver1#10-tips)</b>
+11. <b>[References](https://github.com/cmdlhz/cmdlhz_ver1#11-references)</b>
+12. <b>[Built With](https://github.com/cmdlhz/cmdlhz_ver1#12-built-with)</b>
+13. <b>[Coming Up](https://github.com/cmdlhz/cmdlhz_ver1#13-coming-up)</b>
+14. <b>[Contributing](https://github.com/cmdlhz/cmdlhz_ver1#14-contributing)</b>
+15. <b>[License](https://github.com/cmdlhz/cmdlhz_ver1#15-license)</b>
 
 # 1. Abstract
 - - -
@@ -95,12 +96,18 @@ The first version of my portfolio website in production
     - Open Resources : `Ctrl` + `Shift` + `R`
 - - -
 
-# 10. References 
-## 10.1. Overall
+# 10. Tips 
+## 10.1. HTML
+## 10.2. CSS
+* Material Icons are placed at slightly above center. => [Answer](https://stackoverflow.com/a/43361653/10021131) `vertical-align: middle;`
+- - -
+
+# 11. References 
+## 11.1. Overall
 * <b>Info</b>
     - [개발 관련 정보](https://github.com/WeareSoft/archive)
 
-## 10.2. Front-end
+## 11.2. Front-end
 ### Overall
 * <b>Collections</b>
     - [프론트엔드 학습 사이트](https://poiemaweb.com/) : HTML5, CSS3, Bootstrap, Sass, JS, ECMAScript6, jQuery, Snippet, NodeJS, Express, MongoDB, TypeScript, Angular, Tools
@@ -167,27 +174,28 @@ The first version of my portfolio website in production
 * <b>Practice</b>
     - [The Bézier curve](https://bezier.method.ac/) : A game for mastering the pen tool
     
-## 10.3. Back-end
+## 11.3. Back-end
 ### Java
  * <b>Tutorials</b>
     - [Java Tutorials](https://howtodoinjava.com/)
 
-## 10.4. DB
+## 11.4. DB
 * [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
 
-## 10.5. Computer Science
+## 11.5. Computer Science
 * <b>Fundamentals</b>
     - [Teach Yourself CS](https://teachyourselfcs.com/)
     - [List of CS courses online](https://github.com/prakhar1989/awesome-courses)
 
-## 10.6. UI/UX
+## 11.6. UI/UX
 * <b>Figma</b>
     - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
-## 10.7. Etc
+## 11.7. Etc
 * <b>How to write a good README</b>
     - [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques)
-* <b>Version contorl</b>
+    - [Markdown Demo](https://markdown-it.github.io/)
+* <b>Version control</b>
     - [Why you shouldn't use `--allow-unrelated-histories` flag](https://stackoverflow.com/a/39783462/10021131)
 * <b>Testing</b>
     - [Mocha](https://mochajs.org/), the core framework : It provides common testing functions including describe and it and the main function that runs tests.
@@ -196,7 +204,7 @@ The first version of my portfolio website in production
     - [환경변수를 설정하는 이유](https://c-calliy.tistory.com/42)
     - [Post Image](https://postimages.org/) : Get permanent links for images
   
-## 10.8. Inspirations
+## 11.8. Inspirations
 * <b>Interactive Experience</b>
     - [Website Awwwards](https://www.awwwards.com/) : scores based on design, usability, creativity, content, and mobile
     - [Form Follows Function](http://fff.cmiscm.com/#!/main)
@@ -217,12 +225,14 @@ The first version of my portfolio website in production
     - [José Manuel Pérez](https://jmperezperez.com/projects/)
 - - -
 
-# 11. Built With
+# 12. Built With
 * <b>Front End</b>
     - HTML
     - CSS
         + [Sass](https://sass-lang.com/)
         + [Animate CSS](https://daneden.github.io/animate.css/)
+        + [Material Design Icons](https://material.io/)
+        + [Google Fonts](https://fonts.google.com/)
     - JavaScript
         + [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap) : Professional-grade javascript animation for the modern web
         + [ScrollMagic](http://scrollmagic.io/) : Javascript library for magical scroll interactions
@@ -251,7 +261,7 @@ The first version of my portfolio website in production
         + [Helping One Million Developers Exit Vim](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)
 - - -
 
-# 12. Coming Up
+# 13. Coming Up
 I plan to learn the following:
 * <b>Overall</b>
     - * [Web Developer Roadmap](https://github.com/cmdlhz/developer-roadmap)
@@ -269,11 +279,11 @@ I plan to learn the following:
         + M320: Data Modeling (<i>advanced</i>)      
         + UD032: Data Wrangling with MongoDB (<i>intermediate</i>)
       
-# 13. Contributing
+# 14. Contributing
 If you see any typos or formatting errors in the website, please do not hesitate to open a pull request and fix it! :)
 - - -
 
-# 14. License
+# 15. License
 This project is open source and available under the [MIT License](https://github.com/cmdlhz/portfolio_website_ver2/blob/master/LICENSE).
 - - -
 
