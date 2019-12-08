@@ -112,6 +112,7 @@ The first version of my portfolio website in production
 ### Overall
 * <b>Collections</b>
     - [프론트엔드 학습 사이트](https://poiemaweb.com/) : HTML5, CSS3, Bootstrap, Sass, JS, ECMAScript6, jQuery, Snippet, NodeJS, Express, MongoDB, TypeScript, Angular, Tools
+    - [HTML & CSS is hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/)
 * <b>Testing</b>
     - [HTML-CSS-JS](https://html-css-js.com/): An online tool collection of HTML, CSS, JS
     - [Regex 101](https://regex101.com/): a regular expression debugger 
