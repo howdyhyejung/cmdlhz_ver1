@@ -131,6 +131,7 @@ The first version of my portfolio website in production
     - CSS
         + [Flexbox](https://flexbox.io/) by Wes Bos
         + [CSS Grid](https://cssgrid.io/) by Wes Bos
+        + [CSS Grid for Visual Learners](http://www.csstutorial.org/css-grid-tutorial.html) by Greg Sidelnikov
     - GreenSock
         + [GreenSock for Beginners](https://bit.ly/2IBc8la) on YouTube by [Petr Tichy](https://twitter.com/ihatetomatoes)
     - ScrollMagic
