@@ -195,6 +195,8 @@ The first version of my portfolio website in production
     - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
 ## 11.7. Etc
+* <b>Git</b>
+    - [Git guide that anyone can easily understand](https://backlog.com/git-tutorial/kr/)
 * <b>How to write a good README</b>
     - [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques)
     - [Markdown Demo](https://markdown-it.github.io/)
