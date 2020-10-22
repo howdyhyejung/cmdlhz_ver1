@@ -98,6 +98,7 @@ The first version of my portfolio website in production
 
 # 10. Tips 
 ## 10.1. HTML
+* .container>.item`*`3 => In a div with "container" class, there are three divs with "item" class
 ## 10.2. CSS
 * Material Icons are placed at slightly above center. => [Answer](https://stackoverflow.com/a/43361653/10021131) : `vertical-align: middle;`
 * Grid property is not applied at div inside of another div. => Answer : Write `display: grid` inside of the child div.
