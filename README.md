@@ -103,6 +103,7 @@ The first version of my portfolio website in production
 * Material Icons are placed at slightly above center. => [Answer](https://stackoverflow.com/a/43361653/10021131) : `vertical-align: middle;`
 * Grid property is not applied at div inside of another div. => Answer : Write `display: grid` inside of the child div.
 * `--`black: #272727; => color: var(`--`black);
+* box-sizing: border-box; => allows us to add padding and border to our elements without increasing their size
 - - -
 
 # 11. References 
